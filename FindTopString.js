@@ -12,7 +12,7 @@ on Sundays, made away with three-quarters of his income."
 This logic can also be done using Map, and store the key and counter.
 
 */
-function prac(str)
+function findTopString(str)
 {
     let keyValue = {
     }
